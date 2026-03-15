@@ -16,5 +16,5 @@ PASO 2:
 3. Matrices (Ej 11-15)
 0. Salir
 Seleccione una opción:
-===================================
+
 Selecciona el orden en que quieras ejecutar los ejercicios
